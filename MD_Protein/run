@@ -1,7 +1,7 @@
 #!/bin/bash
 source /usr/local/gromacs/bin/GMXRC
 
-for file in complex.pdb
+for file in protein.pdb
 do
   nuev=$(echo $file | sed 's/.pdb//g' ) 
    gmx pdb2gmx -ignh -nice 0 -f $file -p $nuev.top -o $nuev.gro -i $nuev.itp -n $nuev.ndx -ff charmm27-David  -water tip3p
