@@ -4,7 +4,7 @@
 
 This repository contains the molecular dynamics (MD) simulation files, analysis workflows, and custom scripts used in the study:
 
-**Multiscale Computational Discovery of Natural-Product Inhibitors from PeruNPDB against *Leishmania braziliensis***
+**Multiscale Computational Discovery of Natural-Product Inhibitors from PeruNPDB database against *Leishmania braziliensis***
 
 The repository provides the complete MD simulation setup and analysis procedures for the apo protein and two selected ligand-bound complexes identified through virtual screening and binding free-energy evaluation.
 
