@@ -133,7 +133,7 @@ If you use the workflows, scripts, or simulation protocols contained in this rep
 
 Barazorda-Ccahuana HL et al.
 
-*Multiscale Computational Discovery of Natural-Product Inhibitors from PeruNPDB against Leishmania braziliensis.*
+*From Proteome-Wide Target Prioritization to Natural Product Discovery: A Multiscale Computational Study of Leishmania braziliensis*
 
 ---
 
